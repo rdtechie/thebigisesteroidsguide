@@ -7,4 +7,4 @@ You can completely remove ISESteroids just as easily, anytime.
 ## Download and Install
 The recommended way to download and install ISESteroids is to use PowerShellGet, the official Windows PowerShell package and module management system.
 Use Install-Module to download and install the latest version of ISESteroids from the Microsoft PowerShell Gallery:
-![](images/Install-ISESteroids.png)
+![](images/Install-ISESteroids.jpg)
